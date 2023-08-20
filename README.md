@@ -1,2 +1,2 @@
 # VMsNetworkConfig
-Configure your Virtual Machine network interfaces with this script
+Configure your Debian based Virtual Machine network interfaces with this script.
